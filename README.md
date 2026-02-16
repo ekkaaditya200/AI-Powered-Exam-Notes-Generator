@@ -1,10 +1,3 @@
-Perfect Aditya 🔥
-Here’s a **professional, clean, and impressive README.md** you can directly use on GitHub for your MERN + AI Exam Notes Generator project.
-
-You can copy-paste and modify slightly as needed 👇
-
----
-
 # 🧠 AI-Powered Exam Notes Generator
 
 An AI-driven web application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** that automatically generates structured exam notes, summaries, diagrams, and mind maps from user-provided topics.
