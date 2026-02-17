@@ -4,10 +4,10 @@ An AI-driven web application built using the **MERN Stack (MongoDB, Express.js, 
 
 This project leverages **Generative AI APIs** to help students create exam-ready notes instantly, reducing manual effort and improving productivity.
 
+
+https://github.com/user-attachments/assets/ba110d53-c837-4e4b-91ec-b287160092c2
+
 ---
-
-<img width="2880" height="1448" alt="ExamNotes-AI-02-17-2026_11_37_AM" src="https://github.com/user-attachments/assets/cf0172b8-974f-4be8-95f5-b39d8ebc8cbd" />
-
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ This project leverages **Generative AI APIs** to help students create exam-ready
 * Tailwind CSS / CSS
 * Markdown Renderer
 * Mermaid.js / React Flow (for diagrams)
-* * Firebase Authentication
+* Firebase Authentication
 
 ### 🛠 Backend
 
