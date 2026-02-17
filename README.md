@@ -6,6 +6,9 @@ This project leverages **Generative AI APIs** to help students create exam-ready
 
 ---
 
+<img width="2880" height="1448" alt="ExamNotes-AI-02-17-2026_11_37_AM" src="https://github.com/user-attachments/assets/cf0172b8-974f-4be8-95f5-b39d8ebc8cbd" />
+
+
 ## 🚀 Features
 
 * ✨ Generate structured exam notes from any topic
